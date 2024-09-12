@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341879866376",
+    "project_id": "fir-login-3391e",
+    "storage_bucket": "fir-login-3391e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341879866376:android:af215a2f43f0e263d93dbd",
+        "android_client_info": {
+          "package_name": "com.example.fluttercourse1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_AijCZO6nY887KdiI587QoXlJwWiDIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
